@@ -4,5 +4,9 @@
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+</div><br>
+
+![giphy](https://github.com/IsItReallyYou/ZaketBeta/assets/157841856/ccb39f84-eb14-402f-b34f-f82d4200ba6b)
+
+
 
