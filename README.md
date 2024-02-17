@@ -5,6 +5,5 @@
     <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-<div>
- <iframe src="https://giphy.com/embed/26BRyD3KiIvaRPluM" width="480" height="370" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/chicago-bulls-95-96-72-10-26BRyD3KiIvaRPluM">via GIPHY</a></p>
-</div>
+ ![giphy (1)](https://github.com/IsItReallyYou/ZaketBeta/assets/157841856/e6a396dc-97f5-47ec-9760-2b203c7dda46)
+
