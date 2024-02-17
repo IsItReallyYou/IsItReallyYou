@@ -6,5 +6,5 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <div>
-    <img height="180em" src="![image](https://github.com/IsItReallyYou/IsItReallyYou/assets/157841856/bcda4d07-61bc-4679-933d-0ec54852527b)">
+    <img align="left" alt="mjdunk" src="https://giphy.com/embed/26BRyD3KiIvaRPluM" width="480" height="370" frameBorder="0" class="giphy-embed" allowFullScreen>
 </div>
