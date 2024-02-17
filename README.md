@@ -1,4 +1,6 @@
-![giphy](https://github.com/IsItReallyYou/ZaketBeta/assets/157841856/ccb39f84-eb14-402f-b34f-f82d4200ba6b)
+<div align="left">
+<img src="https://media1.tenor.com/m/6TbKj8zPHRgAAAAC/the-last-of-us2-ellie.gif" width="500px" >
+</div>
 <br>
 <div style="display: inline_block">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
